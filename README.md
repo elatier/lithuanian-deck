@@ -5,13 +5,13 @@ Lithuanian words, A1 to B1, for the state language exam, with audio, stress mark
 
 - 🧭 **[Study it in Gintaro kelias](https://kelias.valdas.uk/)**: free, in
   your browser, no account needed.
-- 📄 **[Deck page](https://anki.valdas.uk/)**: what is on the cards, and
+- 📄 **[Deck page](https://lithuanian.valdas.uk/)**: what is on the cards, and
   what's new.
 - ✏️ **Report a mistake**: in the app, tap the flag on the card (no account
   needed), or [open a correction here](https://github.com/elatier/lithuanian-deck/issues/new?template=correction.yml)
   with the word and what is wrong. Fixes go into the next version.
 
-This repository holds the deck page (`docs/`, served at anki.valdas.uk) and
+This repository holds the deck page (`docs/`, served at lithuanian.valdas.uk) and
 the corrections. The deck is not available as a download. The scripts and
 data that build it are in a private repository, and everything here is
 copied from it, so a pull request here would be overwritten: open an issue
