@@ -1,6 +1,6 @@
 # Lithuanian Deck
 
-Lithuanian words for the A2 state language exam, with audio, stress marks
+Lithuanian words, A1 to B1, for the state language exam, with audio, stress marks
 (kirtis) and Lithuanian-language definitions.
 
 - 🧭 **[Study it in Gintaro kelias](https://kelias.valdas.uk/)**: free, in
